@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "alias": "ortcloudcode-bookmarks-react-client",
   "name": "bookmarks-react-client",
   "routes": [
     {
