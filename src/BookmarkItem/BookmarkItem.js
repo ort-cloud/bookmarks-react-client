@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import {Link} from "react-router-dom";
-import Rating from "../Rating/Rating";
+import Rating from "../rating/rating";
 import BookmarksContext from "../BookmarksContext";
 import config from "../config";
 import "./BookmarkItem.css";

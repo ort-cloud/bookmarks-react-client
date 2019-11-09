@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import "./Rating.css";
+import "./rating.css";
 
 export default function Rating(props) {
   const stars = [0, 0, 0, 0, 0].map((_, i) =>

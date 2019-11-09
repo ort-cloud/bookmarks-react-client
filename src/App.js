@@ -1,8 +1,8 @@
 import React, {Component} from "react";
 import {Route} from "react-router-dom";
-import AddBookmark from "./AddBookmark/AddBookmark";
+import AddBookmark from "./AddBookMark/AddBookMark";
 import EditBookmark from "./EditBookmark/EditBookmark";
-import BookmarkList from "./BookmarkList/BookmarkList";
+import BookmarkList from "./bookmarkList/bookmarkList";
 import BookmarksContext from "./BookmarksContext";
 import Nav from "./Nav/Nav";
 import config from "./config";
